@@ -36,5 +36,5 @@ Before you begin, ensure you have met the following requirements:
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/yourusername/your-repo.git
+   git clone[ https://github.com/yourusername/your-repo.git](https://github.com/Achujozef/Message-RabitMq-Django-Services.git)https://github.com/Achujozef/Message-RabitMq-Django-Services.git
    cd your-repo
